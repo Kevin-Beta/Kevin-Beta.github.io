@@ -1,0 +1,42 @@
+html {
+	background-color: #00539F;
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;	
+}
+
+body {
+	width: 600px;
+	background-color: #FF9500;
+	margin: 0 auto;
+	border: 5px solid black;
+	padding: 0 20px 20px 20px;
+	
+}
+
+img[src] {
+	width: 300px;
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 60px;
+	/*文本位置：居中*/
+	text-align: center;
+	
+	margin: 0;
+	padding: 20px 0;
+	/*border: 1px solid black;*/
+	
+	color: #00539F;
+	
+	text-shadow: 3px 3px 1px black;
+	
+}
+
+p,li {
+	font-size: 16px;
+	/*行间距*/
+	line-height: 2;
+	letter-spacing: 1px;
+}
